@@ -1,2 +1,2 @@
-# Krypton
-Jupyter notebook with python code to solve krypton levels for overthewire.org
+# overthewire
+Solutions to overthewire
